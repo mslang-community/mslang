@@ -1,0 +1,60 @@
+languages:
+
+https://dlang.org/
+
+https://github.com/pashmaklang/pashmak
+
+https://github.com/sami2020pro/topus
+
+https://github.com/sami2020pro/vile
+
+http://cobra-language.com/
+
+https://github.com/peachpiecompiler/peachpie
+
+https://github.com/IronLanguages/ironpython3
+
+https://github.com/boo-lang/boo
+
+https://fsharp.org/
+
+https://www.stum.de/tag/brainfk/
+
+https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/february/create-a-language-compiler-for-the-net-framework-using-csharp
+
+https://kotlinlang.org/
+
+https://en.wikipedia.org/wiki/List_of_programming_languages
+
+
+
+articles:
+
+https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/
+
+https://www.codemag.com/article/1607081/How-to-Write-Your-Own-Programming-Language-in-C
+
+https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn
+
+https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/
+
+https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
+
+
+
+
+
+
+basic goals of mslang on my mind:
+
+
+oop and functional 
+
+write compiled and script app
+
+simple syntax
+
+modular language it's means load features if user need
+
+cross platform run on every system
+
