@@ -24,7 +24,22 @@ https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/february/create-a-l
 
 https://kotlinlang.org/
 
+https://github.com/YODevs/YO
+
+https://github.com/mys-lang
+
+https://github.com/orgs/hascal/repositories
+
+https://github.com/orgs/gleam-lang/repositories
+
+https://github.com/orgs/ren-lang/repositories
+
+https://vala.dev/
+
+https://github.com/carbon-language/carbon-lang
+
 https://en.wikipedia.org/wiki/List_of_programming_languages
+
 
 
 
